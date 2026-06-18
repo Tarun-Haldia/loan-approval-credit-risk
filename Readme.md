@@ -2,6 +2,7 @@
 
 An end-to-end machine learning application that predicts credit risk and automates loan approval decisions using applicant financial and demographic data.
 
+
 ## 🚀 Live Demo
 👉 **Hugging Face App:**  
 https://huggingface.co/spaces/Tanny001/Loan_Risk_Finder
